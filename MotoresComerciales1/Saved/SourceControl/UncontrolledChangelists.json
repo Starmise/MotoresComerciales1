@@ -6,7 +6,16 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales1/MotoresComerciales1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
-				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales1/MotoresComerciales1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/JN/VC1OHH4ZW8J26FFMKNB697.uasset"
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales1/MotoresComerciales1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/JN/VC1OHH4ZW8J26FFMKNB697.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales1/MotoresComerciales1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales1/MotoresComerciales1/Content/Characters/Mannequins/Materials/M_Mannequin.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales1/MotoresComerciales1/Content/Characters/Mannequins/Materials/M_Mannequin_alt.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales1/MotoresComerciales1/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01_alt.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales1/MotoresComerciales1/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02_alt.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales1/MotoresComerciales1/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales1/MotoresComerciales1/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales1/MotoresComerciales1/Content/BPI_Inflamable.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/MotoresComerciales1/MotoresComerciales1/Content/BP_Platform.uasset"
 			]
 		}
 	]
