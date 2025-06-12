@@ -51,6 +51,16 @@ Plugins/**/Binaries/*
 
 # Builds
 Build/*
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.pdb
+*.ubulk
+*.ushaderbytecode
+*.ucas
+*.uplugin
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
