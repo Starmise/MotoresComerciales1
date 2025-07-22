@@ -41,6 +41,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "PixelStreaming",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
